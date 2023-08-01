@@ -10,4 +10,4 @@ open your terminal, run the following commands:
 + pip install requests
 + pip install threading
 + python main.py
-Enter your base keyword & start scraping!
+- Enter your base keyword & start scraping!
